@@ -47,7 +47,7 @@ The application will be invoked with the following command:
 
   ### Repository
 
-  - [Github](https://github.com/EMackPierre/Employee-Tracker)
+  - [Github](https://github.com/EMackPierre/Burger-Logger)
   - [Heroku]()
 
   ### Questions
